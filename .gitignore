@@ -157,3 +157,4 @@ WAITING_*.md
 # Terminals
 terminals/
 
+*.csv
