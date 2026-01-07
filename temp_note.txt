@@ -1,0 +1,6 @@
+// Make DailySyncProcessor fields public for orchestrator access
+// (Quick fix - in production, use proper getters/setters or constructor)
+
+
+
+
